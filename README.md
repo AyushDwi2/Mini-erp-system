@@ -12,20 +12,7 @@ In order to execute this project you must have:
 ### Installation
 
 ```
-git clone https://github.com/FaztWeb/nextjs-postgres-crud-typescript
 cd nextjs-postgres-crud-typescript
 npm install
 npm run dev
 ```
-
-### PostgreSQL with Docker
-
-In my case I'm using postgresql and PgAdmin trough docker-compose. You use it with this command:
-
-```
-docker-compose app
-```
-
-and then you can visit: http://localhost:80 to see the interface
-
-Read the docker-compose file to know more.
